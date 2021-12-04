@@ -9,8 +9,7 @@ Tutorial for SLAM beginners.
 地址：[视觉SLAM学习笔记专栏地址](https://www.bilibili.com/read/readlist/rl479898)
 
 - [视觉SLAM十四讲学习笔记](https://www.bilibili.com/read/cv13634926)（更新完毕）
-- [视觉惯性融合定位](https://www.bilibili.com/read/cv14142576)（更新中）
-- VINS-Mono论文分析（待更新）
+- [视觉惯性融合定位](https://www.bilibili.com/read/cv14142576)（更新完毕）
 
 
 

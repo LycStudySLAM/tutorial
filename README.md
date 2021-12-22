@@ -20,7 +20,7 @@ Tutorial for SLAM beginners.
 地址：[视觉SLAM工程分析专栏地址](https://www.bilibili.com/read/readlist/rl484888)
 
 - [双目视觉里程计工程分析](https://www.bilibili.com/read/cv13938243)（更新完毕）
-- VINS-Mono工程分析（待更新）
+- [VINS-Mono工程分析](https://www.bilibili.com/read/cv14526776)（更新中）
 
 
 

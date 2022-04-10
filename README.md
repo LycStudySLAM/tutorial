@@ -23,9 +23,9 @@ Tutorial for SLAM beginners.
 
 
 
-### 事件相机相关论文笔记专栏
+### 论文阅读笔记专栏
 
-专栏地址：[视觉SLAM相关论文翻译专栏地址](https://www.bilibili.com/read/readlist/rl522322)
+专栏地址：[论文阅读笔记专栏地址](https://www.bilibili.com/read/readlist/rl522322)
 
 
 
